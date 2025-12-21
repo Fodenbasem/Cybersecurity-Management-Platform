@@ -58,8 +58,8 @@ Even though UI/UX was not required in the initial brief, I implemented **a fully
 ---
 
 ## 🔗 Links
-- **Project Documentation:** [Click Here](#)  
-- **GitHub Repository:** [Click Here](#)  
+- **Project Documentation:** [[Click Here](https://www.linkedin.com/posts/fady-basem-b96278340_the-blind-guardian-1st-rank-project-activity-7407373217599877120-mUEb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFV4C6IBTYoAS8AGPvMbFdVbJRmKEgPmXYI)](#)  
+
 
 ---
 
